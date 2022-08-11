@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#Memory game with react while following a tutorial The Net Ninja
+
+[Click here to play](https://try-memorygame.netlify.app/)
+
+
+# Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
