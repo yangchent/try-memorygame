@@ -3,6 +3,11 @@
 [Click here to play](https://try-memorygame.netlify.app/)
 
 
+![game](https://user-images.githubusercontent.com/72544887/184224131-f318f897-f9ef-477f-8da1-f68ea85ab97d.png)
+
+- Function based 
+- Easy to understand the code. 
+
 # Getting Started with Create React App 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
